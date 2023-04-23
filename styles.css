@@ -1,15 +1,15 @@
 #title {
-    color: red;
+    color: rgb(255, 0, 140);
 }
 
 #title {
-    color: purple;
+    color: rgb(21, 128, 0);
 }
 
 .blue {
-    color:blue;
+    color:rgba(0, 255, 255, 0.938);
 }
 
 h2{
-    color:green;
+    color:rgb(128, 0, 117);
 }
