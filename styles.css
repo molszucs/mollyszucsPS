@@ -13,3 +13,13 @@
 h2{
     color:rgb(128, 0, 117);
 }
+
+body {
+    background-color: rgb(13, 146, 95);
+    color: white;
+    padding: 30px;
+}
+ul {
+    border: 1px solid black;
+    padding: 20px
+}
